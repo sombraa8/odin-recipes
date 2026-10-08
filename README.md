@@ -1,0 +1,1 @@
+In this project, I will create an HTML site including an index page. This page will link to several recipes in order to demonstrate my understanding of HTML thus far. This project will aid in my basic understanding of HTML elements.
